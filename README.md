@@ -11,7 +11,8 @@ py -3.13 -m pip install -r requirements.txt
 ```
 ## Como executar
 
-```powershella
+```powershell
+py -3.13 wave.py
 ```
 
 Ao executar:
