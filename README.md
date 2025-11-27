@@ -66,7 +66,3 @@ py -3.13 wave.py
 
 - Para calibrar sensibilidade, edite `area_threshold` dentro do `wave.py`.
 - Se o cursor pular ao restaurar a janela, aumentar `KEY_DEBOUNCE` no topo do arquivo pode reduzir duplicações de eventos.
-
----
-
-Se quiser, eu posso: (a) tornar `a`/`l` também globais, (b) adicionar overlay textual quando ações globais acontecem, ou (c) criar um pequeno script de instalação. Diga qual prefere.
